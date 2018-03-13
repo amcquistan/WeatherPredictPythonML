@@ -4,7 +4,7 @@ This repo contains three Python Jupyter Notebooks for a tutorial series publishe
 
 ### Series Contents
 
-1. [Using Machine Learning to Predict the Weather: Part 1](http://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/) - [Weather Underground API.ipynb](https://github.com/amcquistan/WeatherPredictPythonML/blob/master/Weather%20Underground%20API.ipynb)
-2. [Using Machine Learning to Predict the Weather: Part 2](http://stackabuse.com/using-machine-learning-to-predict-the-weather-part-2/) - [Weather Underground Linear Regression.ipynb](https://github.com/amcquistan/WeatherPredictPythonML/blob/master/Weather%20Underground%20Linear%20Regression.ipynb)
-3. [Using Machine Learning to Predict the Weather: Part 3](http://stackabuse.com/using-machine-learning-to-predict-the-weather-part-3/) - [Neural Network Prediction.ipynb](https://github.com/amcquistan/WeatherPredictPythonML/blob/master/Neural%20Network%20Prediction.ipynb)
+1. [Using Machine Learning to Predict the Weather: Part 1](http://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/) - [Data collection from WeatherUnderground API, Cleaning, and Exploration](https://github.com/amcquistan/WeatherPredictPythonML/blob/master/Weather%20Underground%20API.ipynb)
+2. [Using Machine Learning to Predict the Weather: Part 2](http://stackabuse.com/using-machine-learning-to-predict-the-weather-part-2/) - [Build Linear Regression Model with Sci-Kit Learn](https://github.com/amcquistan/WeatherPredictPythonML/blob/master/Weather%20Underground%20Linear%20Regression.ipynb)
+3. [Using Machine Learning to Predict the Weather: Part 3](http://stackabuse.com/using-machine-learning-to-predict-the-weather-part-3/) - [Build Neural Network Model with Tensorflow](https://github.com/amcquistan/WeatherPredictPythonML/blob/master/Neural%20Network%20Prediction.ipynb)
 
